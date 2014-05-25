@@ -16,7 +16,7 @@ public class App
  
     public static void main( String[] args )
     {
-        final Alarm a = new Alarm();
+        final AlarmAux a = new AlarmAux();
         long now = System.currentTimeMillis();
         a.addEvent(now + 2000);
         a.addEvent(now + 5000);
