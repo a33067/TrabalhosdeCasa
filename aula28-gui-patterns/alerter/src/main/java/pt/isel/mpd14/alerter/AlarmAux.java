@@ -43,7 +43,10 @@ public class AlarmAux extends Alarm{
         }
     }*/
 <<<<<<< HEAD
+<<<<<<< HEAD
     
+=======
+>>>>>>> 3bd156c5048ec5bf0cc0d8c27704138d5d771a04
 =======
 >>>>>>> 3bd156c5048ec5bf0cc0d8c27704138d5d771a04
     public static void alarmRigs(){

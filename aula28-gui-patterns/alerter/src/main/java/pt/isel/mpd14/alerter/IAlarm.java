@@ -10,8 +10,14 @@ package pt.isel.mpd14.alerter;
  *
  * @author Koracione
 <<<<<<< HEAD
+<<<<<<< HEAD
  */
 public interface IAlarm {
+=======
+ * @param <T>
+ */
+public interface IAlarm<T> {
+>>>>>>> 3bd156c5048ec5bf0cc0d8c27704138d5d771a04
 =======
  * @param <T>
  */

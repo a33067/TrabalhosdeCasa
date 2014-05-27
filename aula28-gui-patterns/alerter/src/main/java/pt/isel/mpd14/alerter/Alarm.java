@@ -6,6 +6,10 @@
 package pt.isel.mpd14.alerter;
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+import java.util.ArrayList;
+>>>>>>> 3bd156c5048ec5bf0cc0d8c27704138d5d771a04
 =======
 import java.util.ArrayList;
 >>>>>>> 3bd156c5048ec5bf0cc0d8c27704138d5d771a04
